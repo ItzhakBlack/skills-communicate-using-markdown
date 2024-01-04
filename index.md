@@ -10,3 +10,6 @@
 ``` python
 print("Hello Github!)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
